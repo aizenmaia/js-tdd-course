@@ -1,0 +1,55 @@
+[
+
+              {
+
+              "id": "compre-magalu",
+              "title": "Magazine Luiza",
+              "logo_vitrine": "https://static.pontoslivelo.com.br/content/img/Canais/imagemvitrine/banner_magalu_v3.jpg",
+              "logo_parceiro": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/logoMagalu_vitrine_cor.png",
+              "paridade": 2,
+              "pontos": "Pontos",
+              "valor": "1,00",
+              "link_coalizao": "https://www.pontoslivelo.com.br/compreepontue/magazineluiza?banner=C000000762-magazineluiza-Livelo-Coalizao-Promocional-ComprePontue"
+
+              },
+
+                {
+
+              "id": "compre-amaro",
+              "title": "Amaro",
+              "logo_vitrine": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/vitrine/bannerVitrinee_amaro.png",
+              "logo_parceiro": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/vitrine/logo_original_vitrine_amaro.png",
+              "paridade": 3,
+              "pontos": "Pontos",
+              "valor": "1,00",
+              "link_coalizao": "https://www.pontoslivelo.com.br/compreepontue/amaro?banner=C000000762-amaro-Livelo-Coalizao-Promocional-ComprePontue"
+
+              },
+
+                {
+
+              "id": "compre-camicado",
+              "title": "Camicado",
+              "logo_vitrine": "https://static.pontoslivelo.com.br/content/img/Canais/20190201/coalizao/vitrine-camicado-certoo.jpg",
+              "logo_parceiro": "https://static.pontoslivelo.com.br/content/img/Canais/20181001/coalizao/camicado_logo_vitrine2e.png",
+              "paridade": 5,
+              "pontos": "Pontos",
+              "valor": "1,00",
+              "link_coalizao": "https://www.pontoslivelo.com.br/compreepontue/camicado?banner=C000000762-camicado-Livelo-Coalizao-Promocional-ComprePontue"
+
+              },
+
+                {
+
+              "id": "compre-unidas",
+              "title": "Unidas",
+              "logo_vitrine": "https://static.pontoslivelo.com.br/content/img/Canais/imagemvitrine/unidascarro.png",
+              "logo_parceiro": "https://static.pontoslivelo.com.br/content/img/campanhas/2018/2018_cardapiocoalizao/parceiros/logo/unidas.jpg",
+              "paridade": 1,
+              "pontos": "Ponto",
+              "valor": "1,00",
+              "link_coalizao": "https://www.pontoslivelo.com.br/compreepontue/unidas?banner=C000000762-unidas-Livelo-Coalizao-Promocional-ComprePontue"
+
+              }
+
+              ]
